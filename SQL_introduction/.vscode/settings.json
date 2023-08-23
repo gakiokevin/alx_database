@@ -1,0 +1,44 @@
+{
+   "sqltools.connections": [
+      {
+         "mysqlOptions": {
+            "authProtocol": "default",
+            "enableSsl": "Disabled"
+         },
+         "previewLimit": 50,
+         "server": "localhost",
+         "port": 3306,
+         "driver": "MySQL",
+         "name": "sql",
+         "database": "project",
+         "username": "root"
+      },
+      {
+         "mysqlOptions": {
+            "authProtocol": "default",
+            "enableSsl": "Disabled"
+         },
+         "previewLimit": 50,
+         "server": "localhost",
+         "port": 3306,
+         "driver": "MySQL",
+         "name": "d",
+         "database": "kevin",
+         "username": "Admin"
+      },
+      {
+         "mysqlOptions": {
+            "authProtocol": "default",
+            "enableSsl": "Disabled"
+         },
+         "previewLimit": 50,
+         "server": "localhost",
+         "port": 3306,
+         "driver": "MySQL",
+         "name": "alx",
+         "database": "project",
+         "username": "kevin",
+         "askForPassword": true
+      }
+   ]
+}
